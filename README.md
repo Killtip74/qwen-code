@@ -104,7 +104,17 @@ npm install -g .
 brew устанавливает qwen-код
 ```
 
+<<<<<<< HEAD
 ## Код расширения VS
+=======
+## VS Code Extension
+
+In addition to the CLI tool, Qwen Code also provides a **VS Code extension** that brings AI-powered coding assistance directly into your editor with features like file system operations, native diffing, interactive chat, and more.
+
+> 📦 The extension is currently in development. For installation, features, and development guide, see the [VS Code Extension README](./packages/vscode-ide-companion/README.md).
+
+## Quick Start
+>>>>>>> upstream/main
 
 В дополнение к инструменту CLI, Qwen Code также предоставляет расширение ** VS Code**, которое обеспечивает поддержку программирования на базе искусственного интеллекта непосредственно в вашем редакторе с помощью таких функций, как операции с файловой системой, встроенные различия, интерактивный чат и многое другое.
 
